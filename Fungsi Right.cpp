@@ -10,7 +10,7 @@
  {
      char arr[30];
      int i, j, k;
-     
+     printf("saya suka kentang")
     scanf("%[^\n]", arr);
     scanf("%d", &k);
 	i = strlen(arr);
