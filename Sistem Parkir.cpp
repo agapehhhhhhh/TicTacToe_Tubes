@@ -125,7 +125,7 @@ A (Motor)   Jam Berikutnya         1500
 B (Mobil)   1 Jam Pertama          3000
 B (Mobil)   Jam Berikutnya         3500
 */
-
+//ddp kontol
 int main(){
 	Kendaraan daftarKendaraan[100]; // maksimal jumlah kendaraan yang diparkir adalah 100 untuk mobil dan motor
 	Kendaraan kendaraan;
