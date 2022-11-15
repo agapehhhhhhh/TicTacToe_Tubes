@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-
+// ini editan saabiq
 typedef struct{
 	int hour, minute, second;
 }Jam; // jam menggunakan format 24 Jam
