@@ -3,7 +3,7 @@
 
 typedef struct{
 	int hour, minute, second;
-}Jam; // jam menggunakan format 24 Jaaam
+}Jam; // jam menggunakan format 24 Jam
 
 typedef struct{
 	char tipeKendaraan; // A
