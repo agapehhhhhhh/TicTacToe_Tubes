@@ -760,6 +760,7 @@ char cekMenang(){
             }
                 }
             }
+            return ' ';
         }    
     }
 }
