@@ -760,7 +760,7 @@ char cekMenang(){
             }
                 }
             }
-        }    
+        } return ' ';
     }
 }
 void cetakMenang(char winner){
